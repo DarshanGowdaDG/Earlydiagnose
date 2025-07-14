@@ -121,24 +121,7 @@ npm start
 ## 💬 Contributing
 
 We welcome all contributions!  
-Check out our [contribution guidelines](CONTRIBUTING.md) or start a discussion in the issues.
 
----
 
-<p align="center">
-  <b>Empowering personalized health through advanced biomarker analysis and AI.</b>
-  <br /><br />
-  <img src="https://img.shields.io/github/stars/DarshanGowdaDG/Earlydiagnose?style=social" alt="GitHub stars" />
-  <img src="https://img.shields.io/github/license/DarshanGowdaDG/Earlydiagnose" alt="License" />
-</p>
-
----
-
-<details>
-<summary>🎨 Design Philosophy</summary>
-
-- **Clarity first:** Clean, intuitive UI for users and clinicians
-- **Evidence-based:** Every prediction grounded in peer-reviewed research
-- **Privacy by design:** No personal data stored without consent
 
 </details>
